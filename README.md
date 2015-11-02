@@ -1,3 +1,3 @@
 # Coalescent
 
-Algorithm implementations fro Gene Genealogies, Variation and Evolution.
+Implementations of algorithms from Gene Genealogies, Variation and Evolution.
